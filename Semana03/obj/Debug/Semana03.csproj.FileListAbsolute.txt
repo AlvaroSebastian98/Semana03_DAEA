@@ -1,0 +1,14 @@
+D:\Alvaro\Tecsup\VI_Ciclo\Desarrollo_Aplicaciones_Empresariales_Avanzado\Lab3\Semana03\Semana03\obj\Debug\Semana03.csprojAssemblyReference.cache
+D:\Alvaro\Tecsup\VI_Ciclo\Desarrollo_Aplicaciones_Empresariales_Avanzado\Lab3\Semana03\Semana03\obj\Debug\MainWindow.g.cs
+D:\Alvaro\Tecsup\VI_Ciclo\Desarrollo_Aplicaciones_Empresariales_Avanzado\Lab3\Semana03\Semana03\obj\Debug\App.g.cs
+D:\Alvaro\Tecsup\VI_Ciclo\Desarrollo_Aplicaciones_Empresariales_Avanzado\Lab3\Semana03\Semana03\obj\Debug\Semana03_MarkupCompile.cache
+D:\Alvaro\Tecsup\VI_Ciclo\Desarrollo_Aplicaciones_Empresariales_Avanzado\Lab3\Semana03\Semana03\obj\Debug\Semana03_MarkupCompile.lref
+D:\Alvaro\Tecsup\VI_Ciclo\Desarrollo_Aplicaciones_Empresariales_Avanzado\Lab3\Semana03\Semana03\bin\Debug\Semana03.exe.config
+D:\Alvaro\Tecsup\VI_Ciclo\Desarrollo_Aplicaciones_Empresariales_Avanzado\Lab3\Semana03\Semana03\bin\Debug\Semana03.exe
+D:\Alvaro\Tecsup\VI_Ciclo\Desarrollo_Aplicaciones_Empresariales_Avanzado\Lab3\Semana03\Semana03\bin\Debug\Semana03.pdb
+D:\Alvaro\Tecsup\VI_Ciclo\Desarrollo_Aplicaciones_Empresariales_Avanzado\Lab3\Semana03\Semana03\obj\Debug\MainWindow.baml
+D:\Alvaro\Tecsup\VI_Ciclo\Desarrollo_Aplicaciones_Empresariales_Avanzado\Lab3\Semana03\Semana03\obj\Debug\Semana03.g.resources
+D:\Alvaro\Tecsup\VI_Ciclo\Desarrollo_Aplicaciones_Empresariales_Avanzado\Lab3\Semana03\Semana03\obj\Debug\Semana03.Properties.Resources.resources
+D:\Alvaro\Tecsup\VI_Ciclo\Desarrollo_Aplicaciones_Empresariales_Avanzado\Lab3\Semana03\Semana03\obj\Debug\Semana03.csproj.GenerateResource.cache
+D:\Alvaro\Tecsup\VI_Ciclo\Desarrollo_Aplicaciones_Empresariales_Avanzado\Lab3\Semana03\Semana03\obj\Debug\Semana03.exe
+D:\Alvaro\Tecsup\VI_Ciclo\Desarrollo_Aplicaciones_Empresariales_Avanzado\Lab3\Semana03\Semana03\obj\Debug\Semana03.pdb
